@@ -36,7 +36,7 @@ export default function App() {
       </div>
 
       {/* Filtro */}
-      <div className="max-w-4xl mx-auto bg-white shadow-md rounded-xl p-4 ">
+      <div className="max-w-4xl mx-auto bg-white shadow-md rounded-xl p-4 mb-8">
         <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
       
         {/* Input de busca */}
@@ -68,6 +68,21 @@ export default function App() {
     
 
     {/* Listar questões */}
+    <div className="max-w-4xl mx-auto bg-white shadow-md rounded-xl p-4">
+      <h3 className="font-bold mb-4">Tipo da questão | ID: 1231241</h3>
+      <p className="mb-4">É correto afirmar que a musica é a arte dos sons?</p>
+      <div className="flex justify-between">
+        <div className="flex justify-between gap-0.5">
+          <div className=" rounded-2xl bg-amber-200 px-4 py-2">tag</div>
+          <div className=" rounded-2xl bg-amber-200 px-4 py-2">fase 1</div>
+          <div className=" rounded-2xl bg-amber-200 px-4 py-2">Música e som</div>
+        </div>
+        <div className="flex justify-between gap-1">
+          <button>Adicionar</button>
+          <button>Vizualizar</button>
+        </div>
+      </div>
+    </div>
 
     {/* Gerar questões PDF/DOCX */}
      
