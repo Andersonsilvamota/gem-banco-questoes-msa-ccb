@@ -1,0 +1,179 @@
+[
+  {
+    "id": 3,
+    "nivel": "Iniciante",
+    "fase": 1,
+    "assunto": ["1.2 - Elementos da música"],
+    "tipo": "ME",
+    "enunciado": "Quais são os principais elementos que compõem a música?",
+    "alternativas": [
+      "Melodia, Ritmo e Solfejo.",
+      "Harmonia, Ritmo e Solfejo.",
+      "Melodia, Harmonia e Ritmo.",
+      "Harmonia, Divisão e Melodia."
+    ],
+    "resposta": "Melodia, Harmonia e Ritmo."
+  },
+  {
+    "id": 4,
+    "nivel": "Iniciante",
+    "fase": 1,
+    "assunto": ["1.3 - Propriedades do som"],
+    "tipo": "ME",
+    "enunciado": "Quais são as propriedades do Som?",
+    "alternativas": [
+      "Timbre, Altura, Tempo e Velocidade.",
+      "Timbre, Densidade, Altura e Afinação.",
+      "Timbre, Duração, Altura e Intensidade.",
+      "Duração, Altura, Tamanho e Variedade."
+    ],
+    "resposta": "Timbre, Duração, Altura e Intensidade."
+  },
+  {
+    "id": 5,
+    "nivel": "Iniciante",
+    "fase": 1,
+    "assunto": ["1.4 - Notas musicais"],
+    "tipo": "ME",
+    "enunciado": "Quantas notas musicais existem na escrita musical? Quais são os nomes utilizados nos países de língua latina, ordenados da mais grave para a mais aguda?",
+    "alternativas": [
+      "Existem 7 notas e seus nomes são: Dó, Mi, Ré, Sol, Fá, Si, Lá.",
+      "Existem 7 notas e seus nomes são: Dó, Ré, Mi, Fá, Sol, Lá, Si.",
+      "Existem 8 notas e seus nomes são: Dó, Si, Lá, Sol, Fá, Mi, Ré, Dó.",
+      "Existem 8 notas e seus nomes são: Dó, Ré, Mi, Fá, Sol, Lá, Si, Dó."
+    ],
+    "resposta": "Existem 7 notas e seus nomes são: Dó, Ré, Mi, Fá, Sol, Lá, Si."
+  },
+  {
+    "id": 6,
+    "nivel": "Iniciante",
+    "fase": 1,
+    "assunto": ["1.5 - Pentagrama"],
+    "tipo": "ME",
+    "enunciado": "Como podemos definir o pentagrama?",
+    "alternativas": [
+      "É o conjunto de 5 linhas e 4 espaços.",
+      "É tudo o que precisamos para fazer música.",
+      "É o sinal que representa os sons graficamente."
+    ],
+    "resposta": "É o conjunto de 5 linhas e 4 espaços."
+  },
+  {
+    "id": 7,
+    "nivel": "Iniciante",
+    "fase": 1,
+    "assunto": ["1.6 - Claves"],
+    "tipo": "ME",
+    "enunciado": "O que é clave?",
+    "alternativas": [
+      "É um símbolo gráfico que determina a duração do som.",
+      "É um sinal para representar a pauta musical.",
+      "É um sinal que, em sua linha de referência, determina o nome da nota escrita."
+    ],
+    "resposta": "É um sinal que, em sua linha de referência, determina o nome da nota escrita."
+  },
+  {
+    "id": 10,
+    "nivel": "Iniciante",
+    "fase": 1,
+    "assunto": ["2.2 - Compasso"],
+    "tipo": "ME",
+    "enunciado": "O que é Compasso?",
+    "alternativas": [
+      "É a divisão de um trecho musical em começo, meio e fim.",
+      "É a divisão de um trecho musical em séries regulares de tempos.",
+      "É o resultado da divisão de uma poesia em pequenas seções para facilitar sua leitura.",
+      "É um item da lista escolar desenvolvido para criar arcos e resolver problemas de geometria."
+    ],
+    "resposta": "É a divisão de um trecho musical em séries regulares de tempos."
+  },
+  {
+    "id": 11,
+    "nivel": "Iniciante",
+    "fase": 1,
+    "assunto": ["2.3 - Barras de compasso simples, dupla e final"],
+    "tipo": "ME",
+    "enunciado": "Para que servem as Barras de Compasso?",
+    "alternativas": [
+      "Elas indicam o início ou o fim de um compasso e são grafadas com linhas verticais.",
+      "Elas servem de aviso ao músico para indicar que o final da peça musical está próximo.",
+      "São linhas tracejadas que indicam ao músico onde descansar durante uma execução musical.",
+      "Elas comunicam uma instrução ao músico para contar quantos compassos existem durante a execução da peça musical."
+    ],
+    "resposta": "Elas indicam o início ou o fim de um compasso e são grafadas com linhas verticais."
+  },
+  {
+    "id": 13,
+    "nivel": "Iniciante",
+    "fase": 1,
+    "assunto": ["2.5 - Ritmo e pulsação"],
+    "tipo": "ME",
+    "enunciado": "Marque a opção CORRETA.",
+    "alternativas": [
+      "Ritmo e pulsação são a mesma coisa.",
+      "O ritmo é uma das propriedades do som.",
+      "O ritmo é um dos elementos da música e marca o início e o fim de um espaço de tempo.",
+      "O ritmo é a distribuição dos sons num determinado espaço de tempo, combinando sons longos, sons curtos e silêncios."
+    ],
+    "resposta": "O ritmo é a distribuição dos sons num determinado espaço de tempo, combinando sons longos, sons curtos e silêncios."
+  },
+  {
+    "id": 15,
+    "nivel": "Iniciante",
+    "fase": 1,
+    "assunto": ["1.6 - Claves"],
+    "tipo": "ME",
+    "enunciado": "Indique qual alternativa abaixo é a mais adequada sobre a função da Clave:",
+    "alternativas": [
+      "Determinar o nome da nota escrita na sua linha de referência.",
+      "Determinar a altura do som da nota, isto é, se é uma nota que soa na região aguda, média ou grave.",
+      "As alternativas a e b estão corretas.",
+      "As alternativas a, b e c estão incorretas"
+    ],
+    "resposta": "As alternativas a e b estão corretas."
+  },
+  {
+    "id": 16,
+    "nivel": "Iniciante",
+    "fase": 1,
+    "assunto": ["1.6 - Claves"],
+    "tipo": "ME",
+    "enunciado": "Selecione a alternativa que indique os nomes das Claves, da mais grave à mais aguda.",
+    "alternativas": [
+      "Dó, Fá e Sol.",
+      "Sol, Dó e Fá.",
+      "Fá, Dó e Sol."
+    ],
+    "resposta": "Fá, Dó e Sol."
+  },
+  {
+    "id": 19,
+    "nivel": "Iniciante",
+    "fase": 1,
+    "assunto": ["2.4 - Fórmula de compasso em 4"],
+    "tipo": "ME",
+    "enunciado": "Na fórmula de compasso em 4 o número de cima indica:",
+    "alternativas": [
+      "a uma figura musical.",
+      "a figura que equivale a 4 tempos no compasso.",
+      "a quantidade de tempos dentro de 1 compasso.",
+      "a figura que equivale a um tempo no compasso."
+    ],
+    "resposta": "a quantidade de tempos dentro de 1 compasso."
+  },
+  {
+    "id": 20,
+    "nivel": "Iniciante",
+    "fase": 1,
+    "assunto": ["3.5 - Metrônomo"],
+    "tipo": "ME",
+    "enunciado": "O metrônomo serve para manter a ...... enquanto ...... ou quando ...... nosso instrumento.",
+    "alternativas": [
+      "velocidade - lemos - sopramos.",
+      "pulsação musical - solfejamos - tocamos.",
+      "métrica musical - tocamos o ritmo - afinamos.",
+      "pulsação musical - dividimos os tempos - tocamos."
+    ],
+    "resposta": "pulsação musical - solfejamos - tocamos."
+  }
+]
